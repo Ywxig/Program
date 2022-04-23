@@ -1,0 +1,10 @@
+Program P1;
+var a, b, c, rezalt : real;
+begin
+
+writeln('¬ведите деситичьные числа a, b, c: ');
+readln(a, b, c);
+rezalt := 2*sqr(a)*b + 8*b - 13*sqr(c);
+writeln('ќтвет = ', rezalt);
+
+end.

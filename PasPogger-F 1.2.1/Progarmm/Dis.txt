@@ -1,0 +1,11 @@
+Program Discrimenant;
+var a, b, c, rezalt : real;
+
+begin
+
+writeln('Write a, b, c: ');
+readln(a, b, c);
+rezalt :=  sqr(b) * 4 * a * c;
+if rezalt >= 0 then writeln('ERROR!') else writeln('sqrt(DIS)=', sqrt(rezalt));
+
+end. 

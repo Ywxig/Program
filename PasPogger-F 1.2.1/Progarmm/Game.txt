@@ -1,0 +1,19 @@
+Program Game;
+const G = 0.5;
+          м = 0.2;
+          Z = 0.5;
+var lg, x, y, xp, yp : real;
+begin
+
+writeln('Введите деситичьные числа x, y: ');
+readln(x, y)
+
+lg := G + m;
+xp := x - rl;
+yp := y - lg - Z;
+
+if xp == x and yp == y then writeln('Попал!') else writeln('не Попал/');
+
+end.
+ 
+ 

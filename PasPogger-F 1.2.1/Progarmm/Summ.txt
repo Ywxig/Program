@@ -1,0 +1,10 @@
+Program Summ;
+var a, b, c, rezalt : real;
+begin
+
+writeln('Write a, b, c: ');
+readln(a, b, c);
+rezalt :=  a + b + c;
+writeln('Summ = ', rezalt);
+
+end.

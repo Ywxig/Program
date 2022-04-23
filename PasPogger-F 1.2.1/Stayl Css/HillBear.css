@@ -1,0 +1,57 @@
+h1{
+    font-family: 'Marker Felt', fantasy
+    font-weight: normal;
+    color: #000000;
+    margin: 0;
+    border: 0;
+    padding: 0.3em 0;
+    font-size: 1.625rem;
+}
+
+                           
+p {
+    font-family: 'Marker Felt', fantasy
+    color: #000000;
+    background-color: #ecc19c;
+    font-size: 0.875rem;
+    hyphens: auto;
+    text-align: left;
+    line-height: 1.4;
+}
+
+
+a {
+    font-family: 'Marker Felt', fantasy
+    text-align: left !important;
+    hyphens: auto;
+    line-height: 150%;
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #1e847f;
+}
+
+
+b {
+    font-family: 'Marker Felt', fantasy
+    color: #000000;
+    background-color: #ecc19c;
+    font-size: 0.875rem;
+    hyphens: auto;
+    text-align: left;
+    line-height: 1.4;
+}
+
+
+i {
+    font-family: 'Marker Felt', fantasy
+    color: #000000;
+    background-color: #ecc19c;
+    text-align: left !important;
+    hyphens: auto;
+    line-height: 150%;
+    font-style: italic;
+    padding-top: 5px;
+    font-size: 90%;
+}
+
+

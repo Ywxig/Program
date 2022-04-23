@@ -1,0 +1,34 @@
+h1{    font-family: 'Lucida Grande', Arial, sans-serif;
+    background-color: white;
+    font-weight: normal;
+    color: #1a1a1a;
+    margin: 0;
+    border: 0;
+    padding: 0.3em 0;
+    font-size: 1.625rem;}
+p {    font-family: 'Lucida Grande', Arial, sans-serif;
+    color: #222222;
+    font-size: 0.875rem;
+    hyphens: auto;
+    text-align: left;
+    line-height: 1.4;}
+a {    font-family: 'Lucida Grande', Arial, sans-serif;
+    text-align: left !important;
+    hyphens: auto;
+    line-height: 150%;
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #0072aa;}
+b {    font-family: 'Lucida Grande', Arial, sans-serif;
+    color: #222222;
+    font-size: 0.875rem;
+    hyphens: auto;    text-align: left;
+    line-height: 1.4;}
+i {font-family: 'Lucida Grande', Arial, sans-serif;
+    color: #222222;
+    text-align: left !important;
+    hyphens: auto;
+    line-height: 150%;
+    font-style: italic;
+    padding-top: 5px;
+    font-size: 90%;}

@@ -1,0 +1,14 @@
+Program Pn;
+
+var a, b, c, rezalt : real;
+begin
+
+writeln('¬ведите деситичьные числа a, b, c: ');
+readln(a, b, c);
+rezalt := -7*b + sqrt( a*sqr(b) - 4*a*c );
+writeln('ќтвет = ', rezalt);
+
+
+
+
+end.
